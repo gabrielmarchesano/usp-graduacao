@@ -1,0 +1,70 @@
+InsertionSort(Array Aleatorio de tamanho 10000). Tempo = 63644756, Movimentações: 25024270, Comparações: 25024270
+InsertionSort(Array Aleatorio de tamanho 1000). Tempo = 622494, Movimentações: 250298, Comparações: 250298
+InsertionSort(Array Aleatorio de tamanho 100). Tempo = 6837, Movimentações: 2373, Comparações: 2373
+InsertionSort(Array Crescente de tamanho 10000). Tempo = 50862, Movimentações: 19998, Comparações: 19998
+InsertionSort(Array Crescente de tamanho 1000). Tempo = 5055, Movimentações: 1998, Comparações: 1998
+InsertionSort(Array Crescente de tamanho 100). Tempo = 584, Movimentações: 198, Comparações: 198
+InsertionSort(Array Decrescente de tamanho 10000). Tempo = 129127960, Movimentações: 50014998, Comparações: 50014998
+InsertionSort(Array Decrescente de tamanho 1000). Tempo = 1230039, Movimentações: 501498, Comparações: 501498
+InsertionSort(Array Decrescente de tamanho 100). Tempo = 13302, Movimentações: 5148, Comparações: 5148
+
+SelectionSort(Array Aleatorio de tamanho 10000). Tempo = 101149405, Movimentações: 29964, Comparações: 49995000
+SelectionSort(Array Aleatorio de tamanho 1000). Tempo = 1051223, Movimentações: 2970, Comparações: 499500
+SelectionSort(Array Aleatorio de tamanho 100). Tempo = 14132, Movimentações: 291, Comparações: 4950
+SelectionSort(Array Crescente de tamanho 10000). Tempo = 99256067, Movimentações: 0, Comparações: 49995000
+SelectionSort(Array Crescente de tamanho 1000). Tempo = 997941, Movimentações: 0, Comparações: 499500
+SelectionSort(Array Crescente de tamanho 100). Tempo = 10823, Movimentações: 0, Comparações: 4950
+SelectionSort(Array Decrescente de tamanho 10000). Tempo = 100264823, Movimentações: 15000, Comparações: 49995000
+SelectionSort(Array Decrescente de tamanho 1000). Tempo = 1021551, Movimentações: 1500, Comparações: 499500
+SelectionSort(Array Decrescente de tamanho 100). Tempo = 11735, Movimentações: 150, Comparações: 4950
+
+BubbleSort(Array Aleatorio de tamanho 10000). Tempo = 260086949, Movimentações: 75012816, Comparações: 124992516
+BubbleSort(Array Aleatorio de tamanho 1000). Tempo = 2074254, Movimentações: 744900, Comparações: 1245268
+BubbleSort(Array Aleatorio de tamanho 100). Tempo = 24809, Movimentações: 6525, Comparações: 12035
+BubbleSort(Array Crescente de tamanho 10000). Tempo = 28117, Movimentações: 0, Comparações: 20000
+BubbleSort(Array Crescente de tamanho 1000). Tempo = 2863, Movimentações: 0, Comparações: 2000
+BubbleSort(Array Crescente de tamanho 100). Tempo = 372, Movimentações: 0, Comparações: 200
+BubbleSort(Array Decrescente de tamanho 10000). Tempo = 250941908, Movimentações: 149985000, Comparações: 150004998
+BubbleSort(Array Decrescente de tamanho 1000). Tempo = 2497988, Movimentações: 1498500, Comparações: 1500498
+BubbleSort(Array Decrescente de tamanho 100). Tempo = 25310, Movimentações: 14850, Comparações: 15048
+
+ShellSort(Array Aleatorio de tamanho 10000). Tempo = 1694871, Movimentações: 327858, Comparações: 413131
+ShellSort(Array Aleatorio de tamanho 1000). Tempo = 118657, Movimentações: 21952, Comparações: 28430
+ShellSort(Array Aleatorio de tamanho 100). Tempo = 7017, Movimentações: 1307, Comparações: 1764
+ShellSort(Array Crescente de tamanho 10000). Tempo = 471399, Movimentações: 170486, Comparações: 255759
+ShellSort(Array Crescente de tamanho 1000). Tempo = 35485, Movimentações: 12914, Comparações: 19392
+ShellSort(Array Crescente de tamanho 100). Tempo = 2521, Movimentações: 884, Comparações: 1341
+ShellSort(Array Decrescente de tamanho 10000). Tempo = 672626, Movimentações: 224190, Comparações: 309463
+ShellSort(Array Decrescente de tamanho 1000). Tempo = 51737, Movimentações: 16834, Comparações: 23312
+ShellSort(Array Decrescente de tamanho 100). Tempo = 3959, Movimentações: 1114, Comparações: 1571
+
+HeapSort(Array Aleatorio de tamanho 10000). Tempo = 1989489, Movimentações: 372552, Comparações: 402553
+HeapSort(Array Aleatorio de tamanho 1000). Tempo = 141784, Movimentações: 27216, Comparações: 30217
+HeapSort(Array Aleatorio de tamanho 100). Tempo = 9975, Movimentações: 1785, Comparações: 2086
+HeapSort(Array Crescente de tamanho 10000). Tempo = 1617647, Movimentações: 395868, Comparações: 425869
+HeapSort(Array Crescente de tamanho 1000). Tempo = 129942, Movimentações: 29124, Comparações: 32125
+HeapSort(Array Crescente de tamanho 100). Tempo = 33008, Movimentações: 1920, Comparações: 2221
+HeapSort(Array Decrescente de tamanho 10000). Tempo = 1585211, Movimentações: 350088, Comparações: 380089
+HeapSort(Array Decrescente de tamanho 1000). Tempo = 119532, Movimentações: 24948, Comparações: 27949
+HeapSort(Array Decrescente de tamanho 100). Tempo = 8102, Movimentações: 1548, Comparações: 1849
+
+QuickSort(Array Aleatorio de tamanho 10000). Tempo = 5872023, Movimentações: 246540, Comparações: 400600
+QuickSort(Array Aleatorio de tamanho 1000). Tempo = 581866, Movimentações: 21381, Comparações: 29396
+QuickSort(Array Aleatorio de tamanho 100). Tempo = 50340, Movimentações: 1449, Comparações: 1803
+QuickSort(Array Crescente de tamanho 10000). Tempo = 5144667, Movimentações: 258255, Comparações: 377043
+QuickSort(Array Crescente de tamanho 1000). Tempo = 478689, Movimentações: 17172, Comparações: 26674
+QuickSort(Array Crescente de tamanho 100). Tempo = 45825, Movimentações: 1005, Comparações: 1520
+QuickSort(Array Decrescente de tamanho 10000). Tempo = 5278984, Movimentações: 261447, Comparações: 393435
+QuickSort(Array Decrescente de tamanho 1000). Tempo = 513353, Movimentações: 20415, Comparações: 28080
+QuickSort(Array Decrescente de tamanho 100). Tempo = 48407, Movimentações: 1470, Comparações: 1753
+
+
+MergeSort(Array Aleatorio de tamanho 10000). Tempo = 1586279, Movimentações: 267232, Comparações: 120403
+MergeSort(Array Aleatorio de tamanho 1000). Tempo = 114743, Movimentações: 19952, Comparações: 8718
+MergeSort(Array Aleatorio de tamanho 100). Tempo = 9116, Movimentações: 1344, Comparações: 544
+MergeSort(Array Crescente de tamanho 10000). Tempo = 886584, Movimentações: 267232, Comparações: 69008
+MergeSort(Array Crescente de tamanho 1000). Tempo = 70866, Movimentações: 19952, Comparações: 5044
+MergeSort(Array Crescente de tamanho 100). Tempo = 6046, Movimentações: 1344, Comparações: 356
+MergeSort(Array Decrescente de tamanho 10000). Tempo = 894276, Movimentações: 267232, Comparações: 64608
+MergeSort(Array Decrescente de tamanho 1000). Tempo = 71182, Movimentações: 19952, Comparações: 4932
+MergeSort(Array Decrescente de tamanho 100). Tempo = 6178, Movimentações: 1344, Comparações: 316
